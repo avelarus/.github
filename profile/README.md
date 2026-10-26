@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Portal-avelarus.com-000000?style=for-the-badge&logo=globe)](https://avelarus.com)
 [![Knowledge](https://img.shields.io/badge/Corpus-Knowledge%20%26%20Papers-111111?style=for-the-badge)](https://avelarus.com/knowledge)
-[![Telemetry](https://img.shields.io/badge/Analytics-Sovereign%20Telemetry-222222?style=for-the-badge)](https://analytics.avelarus.com)
+[![Telemetry](https://img.shields.io/badge/Analytics-Private%20Telemetry-222222?style=for-the-badge)](https://analytics.avelarus.com)
 [![Machine-Readable](https://img.shields.io/badge/AI--Ready-llms.txt-333333?style=for-the-badge)](https://avelarus.com/llms.txt)
 
 <br/>
@@ -22,7 +22,7 @@ Modern digital infrastructure frequently conflates convenience with architectura
 
 **Avelarus** is an independent digital institution engineered upon first principles:
 - **Technological Detachment**: Core knowledge representations are decoupled from runtimes, proprietary formats, and transient vendors.
-- **Client-Side Sovereignty**: User data remains strictly local. Utilities and tools operate zero-knowledge in-browser memory.
+- **Client-Side Computing**: User data remains strictly local. Utilities and tools operate in-browser memory without server uploads.
 - **Auditable Open Science**: Open standards, parametric CAD models, SPICE simulations, and reproducible code.
 - **Epistemic Integrity**: Ethical, privacy-first telemetry with zero PII (Personally Identifiable Information).
 
@@ -42,7 +42,7 @@ Modern digital infrastructure frequently conflates convenience with architectura
 ```
 
 ### 1. Arkinor · Advanced Systems & Software Foundations
-Explores sovereign software architecture, decoupled Jamstack pipelines, distributed consensus, protocol design, and resilient computational epistemologies.
+Explores decoupled software architecture, static Jamstack pipelines, distributed consensus, protocol design, and resilient computational epistemologies.
 
 ### 2. Verinoxis · Physical, Electrical & Circuit Engineering
 Dedicated to analog and digital electronic synthesis, universal active filters, SPICE/Ngspice parametric simulations, and physical system dynamics.
@@ -54,8 +54,8 @@ Focused on open-source headless CAD automation (FreeCAD / OpenCASCADE API), invo
 
 ## 🌐 Public Corpus & Treatises
 
-* 📄 **Treatise 001 (EN)**: [The Architecture of Sovereign Technical Systems](https://avelarus.com/knowledge/001-vanguard-systems-manifesto)
-* 📄 **Tratado 001 (PT)**: [A Arquitetura de Sistemas Técnicos Soberanos](https://avelarus.com/pt/conhecimento/001-manifesto-vanguarda-sistemas)
+* 📄 **Treatise 001 (EN)**: [The Architecture of Vanguard Technical Systems](https://avelarus.com/knowledge/001-vanguard-systems-manifesto)
+* 📄 **Tratado 001 (PT)**: [A Arquitetura de Sistemas Técnicos de Vanguarda](https://avelarus.com/pt/conhecimento/001-manifesto-vanguarda-sistemas)
 * 🤖 **Machine-Readable Index**: [https://avelarus.com/llms.txt](https://avelarus.com/llms.txt)
 * 📡 **Public API**: [https://avelarus.com/api/v1/articles.json](https://avelarus.com/api/v1/articles.json)
 
@@ -65,5 +65,5 @@ Focused on open-source headless CAD automation (FreeCAD / OpenCASCADE API), invo
 
 All public-facing portals operate under zero-cost serverless edge deployment on Cloudflare Anycast, backed by Git-based content workflows and privacy-respecting telemetry powered by Umami.
 
-* **Contact**: [contato@avelarus.com](mailto:contato@avelarus.com)
+* **Contact**: [contact@avelarus.com](mailto:contact@avelarus.com)
 * **Domain**: [avelarus.com](https://avelarus.com)
