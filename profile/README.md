@@ -11,7 +11,7 @@
 
 </br/>
 
-*Engineering craft, client-side in-memory tools, and sovereign technical systems.*
+*Engineering craft, client-side in-memory tools, and resilient technical systems.*
 
 ---
 
